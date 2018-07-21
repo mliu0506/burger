@@ -19,10 +19,10 @@ Main Page <br>
 ![Screen shot](public/assets/images/burgers1.png)
 
 When the user clicks Devour it! button, the burger will move to the bottom side of the page <br>
-![Screen shot2](./public/assets/images/burgers2.png)
+![Screen shot2](public/assets/images/burgers2.png)
 
-Whenever a user submits a burger's name, the app will display the burger on the middle of the page 
-![Screen shot2] <br>(./public/assets/images/burgers3.png)
+Whenever a user submits a burger's name, the app will display the burger on the middle of the page <br>
+![Screen shot3](public/assets/images/burgers3.png)
 
 
 ## Technologies used
