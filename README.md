@@ -15,14 +15,14 @@ Run ```node server.js``` in the command line while in the appropriate directory
 
 
 ## Screen Shots
-Main Page
-![Screen shot](public/assets/images/burger1.png)
+Main Page <br>
+![Screen shot](public/assets/images/burgers1.png)
 
-When the user clicks Devour it! button, the burger will move to the bottom side of the page
-![Screen shot2](public/assets/images/burger2.png)
+When the user clicks Devour it! button, the burger will move to the bottom side of the page <br>
+![Screen shot2](./public/assets/images/burgers2.png)
 
 Whenever a user submits a burger's name, the app will display the burger on the middle of the page 
-![Screen shot2](public/assets/images/burger3.png)
+![Screen shot2] <br>(./public/assets/images/burgers3.png)
 
 
 ## Technologies used
