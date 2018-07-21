@@ -1,0 +1,42 @@
+*{
+    margin: 20px 0 0 0;
+    border-radius: 10px;
+    font-family: 'Titan One', cursive;
+  }
+  body{
+    background: url('../images/burgerBG.png') repeat fixed center;
+    text-align: center;
+    color:brown;
+
+  }
+
+  .home-body{
+    text-align: center;
+  }
+  ul{
+    list-style: none;
+    padding: 0;
+  }
+  [type=text]{
+    width: 280px;
+    margin: 20px 0;
+    padding: 3px;
+  }
+  [type=submit]{
+    margin-bottom: 20px;
+    color:blueviolet;
+    background-color: aqua;
+  }
+  button{
+    border-radius: 10px;
+    color:blueviolet;
+    background-color: aqua;
+  }
+  .app-title{
+    font-style: italic;
+    font-size: 50px;
+  }
+  .burger-titles{
+    background-color: yellow;
+    padding: 10px;
+  }
